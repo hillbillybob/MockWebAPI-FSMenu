@@ -44,3 +44,23 @@ c:\users\sjantzen\documents\visual studio 2015\Projects\FoodServicesMenu\bin\Ant
 c:\users\sjantzen\documents\visual studio 2015\Projects\FoodServicesMenu\obj\Debug\FoodServicesMenu.csprojResolveAssemblyReference.cache
 c:\users\sjantzen\documents\visual studio 2015\Projects\FoodServicesMenu\obj\Debug\FoodServicesMenu.dll
 c:\users\sjantzen\documents\visual studio 2015\Projects\FoodServicesMenu\obj\Debug\FoodServicesMenu.pdb
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\obj\Debug\FoodServicesMenu.dll
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\obj\Debug\FoodServicesMenu.pdb
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\obj\Debug\FoodServicesMenu.csprojResolveAssemblyReference.cache
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\FoodServicesMenu.dll.config
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\FoodServicesMenu.dll
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\FoodServicesMenu.pdb
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\Newtonsoft.Json.dll
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\System.Net.Http.Formatting.xml
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\System.Web.Helpers.xml
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\System.Web.Http.xml
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\System.Web.Http.WebHost.xml
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\System.Web.Mvc.xml
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\System.Web.Optimization.xml
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\System.Web.Razor.xml
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\System.Web.WebPages.xml
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\System.Web.WebPages.Razor.xml
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\Antlr3.Runtime.pdb
+C:\Users\sjantzen\Documents\Git\MockWebAPI-FSMenu\MockWebAPI-FSMenu\FoodServicesMenu\bin\FoodServicesMenu.XML

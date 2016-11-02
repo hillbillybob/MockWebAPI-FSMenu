@@ -8,45 +8,48 @@ using FoodServicesMenu.Models;
 
 namespace FoodServicesMenu.Controllers
 {
-    public class MenuController : ApiController
+    public class MealController : ApiController
     {
         List<Day> Week = new List<Day>();
-        public MenuController()
+        public MealController()
         {
             Week = DataMock.GetData();
         }
 
         /// <summary>
-        /// Get's a collection of Days
+        /// Get's a collection of Meals
         /// </summary>
-        // GET: api/Menu
-        public IEnumerable<Day> Get()
+        // GET: api/Meal
+        public IEnumerable<Meal> Get()
         {
-            return Week;
+            var results = from theDays in Week
+                          from theMeals in theDays.Meals
+                          select theMeals;
+            return results;
         }
 
         /// <summary>
-        /// Gets a specific day
+        /// Not yet implemented
         /// </summary>
-        /// <param name="id">the Id of the day</param>
+        /// <param name="id"></param>
         /// <returns></returns>
-        // GET: api/Menu/5
-        public Day Get(int id)
+        // GET: api/Meal/5
+        public string Get(int id)
         {
-            return Week[id];
+            return "Not Implemented Yet";
         }
 
-        // POST: api/Menu
+        // POST: api/Meal
         public void Post([FromBody]string value)
         {
         }
 
-        // PUT: api/Menu/5
+        // PUT: api/Meal/5
         public void Put(int id, [FromBody]string value)
         {
         }
 
-        // DELETE: api/Menu/5
+        // DELETE: api/Meal/5
         public void Delete(int id)
         {
         }

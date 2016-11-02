@@ -8,18 +8,19 @@ using FoodServicesMenu.Models;
 
 namespace FoodServicesMenu.Controllers
 {
-    public class MenuController : ApiController
+    public class DayController : ApiController
     {
         List<Day> Week = new List<Day>();
-        public MenuController()
+
+        public DayController()
         {
             Week = DataMock.GetData();
         }
 
         /// <summary>
-        /// Get's a collection of Days
+        /// Gets a collection of Days, 7 days out
         /// </summary>
-        // GET: api/Menu
+        // GET: api/Day
         public IEnumerable<Day> Get()
         {
             return Week;
@@ -28,25 +29,25 @@ namespace FoodServicesMenu.Controllers
         /// <summary>
         /// Gets a specific day
         /// </summary>
-        /// <param name="id">the Id of the day</param>
+        /// <param name="id">The id of the day</param>
         /// <returns></returns>
-        // GET: api/Menu/5
+        // GET: api/Day/5
         public Day Get(int id)
         {
             return Week[id];
         }
 
-        // POST: api/Menu
+        // POST: api/Day
         public void Post([FromBody]string value)
         {
         }
 
-        // PUT: api/Menu/5
+        // PUT: api/Day/5
         public void Put(int id, [FromBody]string value)
         {
         }
 
-        // DELETE: api/Menu/5
+        // DELETE: api/Day/5
         public void Delete(int id)
         {
         }
